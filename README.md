@@ -62,7 +62,7 @@ Clona este repositorio y ejecuta los notebooks en tu entorno de Jupyter para exp
 ```bash
 git clone https://github.com/yourusername/plots_with_seaborn.git
 
-´´´
+```
 ##  **Contribuciones**
 ¡Las contribuciones son bienvenidas! Siéntete libre de abrir pull requests con mejoras, ejemplos adicionales o correcciones.
 
