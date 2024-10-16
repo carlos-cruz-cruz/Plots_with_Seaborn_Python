@@ -1,4 +1,4 @@
-# Plots with Seaborn Repository
+# Plots with Seaborn Repository (English version, spanish below)
 
 This repository contains a Jupyter notebook demonstrating various plotting utilities using the Seaborn library. Each plot example includes a short description, code examples, and visualizations. It is designed to help data scientists and actuaries quickly learn and apply Seaborn's plotting capabilities.
 
