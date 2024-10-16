@@ -23,7 +23,7 @@ Clone this repository and run the notebooks in your Jupyter environment to explo
 ```bash
 git clone https://github.com/yourusername/plots_with_seaborn.git
 
-´´´
+```
 
 ## Contributions
 Contributions are welcome! Feel free to open pull requests with improvements, additional notebooks, or corrections.
