@@ -1,32 +1,29 @@
-﻿# **Data Science and Actuarial Utilities Repository (English version, spanish version below).**
+# Plots with Seaborn Repository
 
-This repository contains Jupyter notebooks showcasing various methods, functions, and utilities used in data science, actuarial science, and finance. Each notebook includes code examples and explanations of different techniques and concepts.
+This repository contains a Jupyter notebook demonstrating various plotting utilities using the Seaborn library. Each plot example includes a short description, code examples, and visualizations. It is designed to help data scientists and actuaries quickly learn and apply Seaborn's plotting capabilities.
 
 ## Current Contents
-- **Main plots using Pandas & Seaborn**: Notebook describing the main plotting utilities in Pandas and Seaborn library, including line and bar plots, histogramas, heatmaps, and so on.
 
+- **Main plots using Seaborn**: Notebook demonstrating line plots, bar charts, heatmaps, scatter plots, and more.
+  
 ## Future Contents
 
-- **Exploratory Data Analysis**: Notebook demonstrating techniques for exploring and visualizing data.
-- **Statistical Modeling**: Notebook showcasing statistical modeling techniques such as regression, time series analysis, and hypothesis testing.
-- **Machine Learning**: Notebook covering machine learning algorithms and techniques for predictive modeling.
-- **Actuarial Science**: Notebook focusing on actuarial methods, including risk modeling, survival analysis, and insurance pricing.
-- **Financial Analytics**: Notebook exploring financial analytics tools and techniques for analyzing markets, portfolios, and investment strategies.
-
-Each utility has one folder. Inside, you will find one Jupyter notebook with the code and one folder with the data used in the notebook. 
+- **Advanced Seaborn Plots**: Examples of more complex visualizations such as pair plots, violin plots, and box plots.
+- **Interactive Plots**: Integration of Seaborn with interactive libraries to create more dynamic visualizations.
+- **Pandas Integration**: Using Seaborn alongside Pandas for quick and effective data visualization.
 
 ## Data Files
 
-- `data.csv`: example of CSV files used in the notebooks for demonstration purposes. Most of them in csv format.
+- **data.csv**: Example CSV files used in the notebook for demonstration purposes. Most data files are in CSV format.
 
 ## Usage
 
-You can clone this repository and run the notebooks in your Jupyter environment to explore the methods and functions included. Make sure you have the necessary libraries installed (e.g., pandas, numpy, matplotlib, seaborn).
+Clone this repository and run the notebooks in your Jupyter environment to explore different plotting techniques. Ensure that the required libraries are installed (e.g., Pandas, NumPy, Matplotlib, Seaborn).
 
 ```bash
-git clone https://github.com/carlos-cruz-cruz/Utilities_Data_Actuarial_Sciences.git
+git clone https://github.com/yourusername/plots_with_seaborn.git
 
-```
+´´´
 
 ## Contributions
 Contributions are welcome! Feel free to open pull requests with improvements, additional notebooks, or corrections.
@@ -40,37 +37,40 @@ This project is licensed under the MIT License.
 
 ---
 
-# **Repositorio con las principales Utilidades para la Ciencia de Datos y las Ciencias Actuariales (version en español)**
-Este repositorio contiene notebooks de Jupyter que muestran varios métodos, funciones y utilidades utilizadas en la ciencia de datos, ciencias actuariales y las finanzas. Cada notebook incluye ejemplos de código y explicaciones de diferentes técnicas y conceptos.  
+# **Repositorio de Gráficos con Seaborn**
 
-## Contenido Actual  
-Gráficos principales utilizando Pandas & Seaborn: Notebook que describe los principales gráficos en las bibliotecas Pandas y Seaborn, incluyendo gráficos de líneas y de barras, histogramas, mapas de calor, y más.  
+Este repositorio contiene un notebook de Jupyter que demuestra varias utilidades de gráficos utilizando la biblioteca Seaborn. Cada ejemplo de gráfico incluye una breve descripción, ejemplos de código y visualizaciones. Está diseñado para ayudar a científicos de datos y actuarios a aprender y aplicar rápidamente las capacidades de gráficos de Seaborn.
 
-## Contenido Futuro
-- **Análisis Exploratorio de Datos**: Notebook que demuestra técnicas para explorar y visualizar datos.
-- **Modelado Estadístico**: Notebook que muestra técnicas de modelado estadístico como regresión, análisis de series temporales y pruebas de hipótesis.
-- **Aprendizaje Automático**: Notebook que cubre algoritmos y técnicas de aprendizaje automático para modelado predictivo.
-- **Ciencias Actuariales**: Notebook que se centra en métodos actuariales, incluyendo modelado de riesgos, análisis de supervivencia y tarificación de seguros.
-- **Análisis Financiero**: Notebook que explora herramientas y técnicas de análisis financiero para analizar mercados, carteras y estrategias de inversión.
-Cada utilidad tiene una carpeta. Dentro, encontrarás un notebook de Jupyter con el código y una carpeta con los datos utilizados en el notebook.
+##  **Contenido Actual**
 
-## Archivos de Datos
-- `data.csv`: ejemplo de archivos CSV utilizados en los notebooks con fines demostrativos. La mayoría de ellos están en formato csv.
+- **Gráficos principales utilizando Seaborn:** Notebook que demuestra gráficos de líneas, gráficos de barras, mapas de calor, gráficos de dispersión, y más.
 
-## Uso
-Puedes clonar este repositorio y ejecutar los notebooks en tu entorno de Jupyter para explorar los métodos y funciones incluidos. Asegúrate de tener instaladas las bibliotecas necesarias (por ejemplo, pandas, numpy, matplotlib, seaborn).
+##  **Contenido Futuro**
+
+- **Gráficos avanzados con Seaborn:** Ejemplos de visualizaciones más complejas, como gráficos de pares, gráficos de violín y gráficos de caja.
+- **Gráficos interactivos:** Integración de Seaborn con bibliotecas interactivas para crear visualizaciones más dinámicas.
+- **Integración con Pandas:** Uso de Seaborn junto a Pandas para visualización de datos de forma rápida y efectiva.
+
+##  **Archivos de Datos**
+
+- **data.csv:** Ejemplos de archivos CSV utilizados en el notebook con fines demostrativos. La mayoría de los archivos de datos están en formato CSV.
+
+##  **Uso**
+
+Clona este repositorio y ejecuta los notebooks en tu entorno de Jupyter para explorar diferentes técnicas de gráficos. Asegúrate de tener instaladas las bibliotecas requeridas (Pandas, NumPy, Matplotlib, Seaborn).
 
 ```bash
-git clone https://github.com/carlos-cruz-cruz/Utilities_Data_Actuarial_Sciences.git
-```
-## Contribuciones
-¡Las contribuciones son bienvenidas! Siéntete libre de abrir <i>pull requests</i> con mejoras, notebooks adicionales o correcciones.
+git clone https://github.com/yourusername/plots_with_seaborn.git
 
-## Autor
-@carlos-cruz-cruz **GitHub**  
-@carloscruz-dataexpert **LinkedIn**  
+´´´
+##  **Contribuciones**
+¡Las contribuciones son bienvenidas! Siéntete libre de abrir pull requests con mejoras, ejemplos adicionales o correcciones.
 
-## Licencia
+##  **Autor**
+@yourusername en GitHub
+@yourusername en LinkedIn
+
+##  **Licencia**
 Este proyecto está bajo la Licencia MIT.
 
 
